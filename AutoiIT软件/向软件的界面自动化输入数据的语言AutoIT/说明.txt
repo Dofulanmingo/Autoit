@@ -1,0 +1,1 @@
+Scite是autoit编辑器，autoit3.exe是解释器,脚本文件 仅需 它即可得以解释运行
